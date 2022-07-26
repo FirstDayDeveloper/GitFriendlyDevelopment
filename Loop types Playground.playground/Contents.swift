@@ -9,7 +9,7 @@ for _ in 1...10 {
     print(randomNumber)
 }
 
-// Challenge: Add 10 numbers into the array/ Duplicates are not allowed
+// Challenge: Add 10 numbers into the array/ Duplicates aren't allowed
 c.removeAll()
 
 repeat {
@@ -33,3 +33,4 @@ while c.count < 10 {
     print(randomNumber)
     print(c)
 }
+// End
