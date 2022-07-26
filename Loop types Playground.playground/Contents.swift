@@ -23,7 +23,7 @@ repeat {
     print(c)
 } while (c.count < 10)
 
-// While loop to achieve similar results as before
+// While loop to achieve the same results as before
 
 while c.count < 10 {
     let randomNumber = Int.random(in: 1...10)
